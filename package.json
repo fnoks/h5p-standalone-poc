@@ -1,0 +1,17 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "description": "demo app of node-webkit",
+  "version": "0.1.0",
+  "keywords": [ "demo", "node-webkit" ],
+  "window": {
+    "title": "H5P",
+    "toolbar": false,
+    "frame": true,
+    "width": 600,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 600,
+    "min_height": 500
+  }
+}
